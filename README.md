@@ -11,7 +11,7 @@ Proyecto integrador de la materia de **Desarrollo Web** en UNTREF.
 
 ## Demo
 
-🔗 **[Ver sitio en vivo](https://cintava.github.io/untrefschool/)**
+🔗 **[Ver sitio en vivo](https://cintava.github.io/UntrefSchool/)**
 
 ## Tecnologías
 
