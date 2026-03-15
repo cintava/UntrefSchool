@@ -4,8 +4,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ## Descripción
-Sitio web para **UntrefSchool**, una institución educativa de nivel inicial. El sitio presenta la propuesta pedagógica, equipo docente, propuesta educativa y noticias de la institución.
-Proyecto integrador de la materia de **Desarrollo Web** en UNTREF.
+Sitio web para una escuela primaria. Diseño y desarrollo frontend con HTML5 y CSS3. El sitio incluye secciones informativas, propuesta educativa y página de contacto.
+Proyecto integrador de la materia de Desarrollo Web en UNTREF.
 
 ## Demo
 🔗 **[Ver sitio en vivo](https://cintava.github.io/UntrefSchool/)**
